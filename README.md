@@ -1,4 +1,4 @@
-## BASH (Bay Area Safer Housing)
+## 🛟 BASH (Bay Area Safer Housing)
 A web app that helps homebuyers understand the safety of neighborhood communities throughout the Bay Area.
 
 ### Inspiration
